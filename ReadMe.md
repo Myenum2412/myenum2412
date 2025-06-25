@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 **Tech Entrepreneur | Full-Stack Architect | Digital Transformation Leader**  
 
-Hi, I’m **[Your Name]**, the founder of **Myenum** – a cutting-edge web development agency that turns ideas into scalable, high-performance digital solutions. With **5+ years** of experience in the tech industry, I specialize in:  
+Hi, I’m **Amarnath**, the founder of **Myenum** – a cutting-edge web development agency that turns ideas into scalable, high-performance digital solutions. With **5+ years** of experience in the tech industry, I specialize in:  
 
 ✅ **Building enterprise-grade web applications**  
 ✅ **Optimizing UI/UX for maximum conversions**  
