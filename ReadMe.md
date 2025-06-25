@@ -1,105 +1,24 @@
 # 💫 About Me:
-🚀 **Tech Entrepreneur | Full-Stack Architect | Digital Transformation Leader**  
+At Myenum, we are more than just a website development company. we are the driving force behind digital transformation. In today’s fast-paced world, having a strong online presence is not just an option; it’s a necessity. We exist to help businesses, especially startups and emerging brands, establish their footprint in the digital space with powerful, scalable, and conversion-focused websites. Whether you are launching a new venture, expanding your business, or looking to elevate your e-commerce platform, Myenum is your trusted technology partner in achieving success.<br><br>
 
-Hi, I’m **Amarnath**, the founder of **Myenum** – a cutting-edge web development agency that turns ideas into scalable, high-performance digital solutions. With **5+ years** of experience in the tech industry, I specialize in:  
 
-✅ **Building enterprise-grade web applications**  
-✅ **Optimizing UI/UX for maximum conversions**  
-✅ **Cloud-native architecture & DevOps automation**  
-✅ **E-commerce solutions that drive revenue**  
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/myenumam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myenum.in) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@myenum) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myenumam@gmail.conm) 
 
-**Why clients choose Myenum:**  
-- **300% ROI** on average for our web projects  
-- **90% client retention rate** (long-term partnerships)  
-- **48-hour** prototype delivery guarantee  
-- **SEO-optimized** & mobile-first development  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=myenum2412&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=myenum2412&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=myenum2412&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-🔗 **Let’s build something extraordinary:** [myenum.com](https://myenum.com)  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-## 🌟 Featured Projects
-### 🏆 Enterprise Solutions
-| Project | Tech Stack | Results |
-|---------|-----------|---------|
-| **[E-Commerce Platform]** | React, Node.js, AWS | $2M+ revenue in Year 1 |
-| **[SaaS Dashboard]** | Angular, Firebase, Microservices | 10x faster load times |
-| **[Blockchain Wallet]** | Solidity, Web3.js, React | 50K+ active users |
-
-### 🛠️ Open Source Contributions
-- **50+ repositories** with 100K+ total views  
-- **Top 5% contributor** on GitHub for web development tools  
-- Maintainer of **[Popular Library Name]** (500+ stars)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=myenum2412&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=myenum2412&icon=1&color=1)](https://visitcount.itsvg.in)
 
-## 🏅 Certifications & Awards
-- **AWS Certified Solutions Architect** (2023)  
-- **Google Mobile Web Specialist** (2022)  
-- **Forbes 30 Under 30** Nominee (2021)  
-
----
-
-## 💻 Tech Stack Superpowers
-### 🚀 Frontend Mastery  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚡ Backend Wizardry  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 🛢️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## 📈 Performance Metrics
-```text
-🚀 Code Efficiency: Top 1% in optimized builds  
-🛡️ Security: 100% vulnerability-free audit history  
-⚡ Speed: 95+ Lighthouse scores across projects  
-📊 Scalability: Systems handling 1M+ daily requests  
-📚 Latest Blog Posts
-How We Tripled Conversion Rates for E-Commerce Clients
-
-The 2024 Tech Stack for Startups That Scale
-
-Web3 Integration: Case Study of Our Blockchain Project
-
-🌐 Let’s Connect
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Book_Call-00A2FF?style=for-the-badge&logo=calendly&logoColor=white
-
-📊 GitHub Analytics
-https://github-readme-stats.vercel.app/api?username=myenum2412&show_icons=true&theme=radical&hide_border=true&count_private=true
-https://github-readme-streak-stats.herokuapp.com/?user=myenum2412&theme=radical&hide_border=true
-https://github-profile-trophy.vercel.app/?username=myenum2412&theme=radical&margin-w=15
-
-https://komarev.com/ghpvc/?username=myenum2412&label=PROFILE+VIEWS&color=blueviolet&style=flat-square
-
-text
-
----
-
-### **Why This Stands Out:**
-1. **Results-Driven** – Hard numbers (ROI, revenue impact) build instant credibility  
-2. **Visual Hierarchy** – Badges, tables, and code blocks make it skimmable  
-3. **Social Proof** – Certifications/awards showcase authority  
-4. **Lead Generation** – Clear CTAs (Calendly link, website)  
-5. **Technical Depth** – Grouped tech stack shows specialization  
-6. **Dynamic Elements** – GitHub stats auto-update  
-
-**Pro Tip:** Replace placeholder text (like `[Your Name]`, project names, and links) with your actual details for maximum impact!  
-
-Would you like me to tailor any section further for your specific niche (e.g., more emphasis on e-commerce, AI, etc.)?
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
